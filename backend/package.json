@@ -17,7 +17,7 @@
     "cryptr": "^4.0.2",
     "elasticsearch": "^15.3.1",
     "get-json": "^1.0.1",
-    "mongoose": "^5.4.7",
+    "mongoose": "^5.13.15",
     "morgan": "^1.9.1",
     "nodejs-aes256": "^1.0.1",
     "password-hash": "^1.2.2",
